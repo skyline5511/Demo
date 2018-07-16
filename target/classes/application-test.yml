@@ -1,0 +1,7 @@
+
+spring:
+  application:
+    name: mini4-backend
+
+server:
+  port: 8080
